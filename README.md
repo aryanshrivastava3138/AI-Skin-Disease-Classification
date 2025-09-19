@@ -393,8 +393,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-skin-disease-classification/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-skin-disease-classification/discussions)
+- **Issues**: [GitHub Issues](https://github.com/dasmrpmunna/ai-skin-disease-classification/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/dasmrpmunna/ai-skin-disease-classification/discussions)
 - **Email**: support@yourproject.com
 
 ## 🗺️ Roadmap
@@ -418,6 +418,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for advancing medical AI**
 
-[⭐ Star this repo](https://github.com/yourusername/ai-skin-disease-classification) | [🐛 Report Bug](https://github.com/yourusername/ai-skin-disease-classification/issues) | [💡 Request Feature](https://github.com/yourusername/ai-skin-disease-classification/issues)
+[⭐ Star this repo](https://github.com/dasmrpmunna/ai-skin-disease-classification) | [🐛 Report Bug](https://github.com/dasmrpmunna/ai-skin-disease-classification/issues) | [💡 Request Feature](https://github.com/dasmrpmunna/ai-skin-disease-classification/issues)
 
 </div>
