@@ -8,7 +8,23 @@
 
 > An advanced AI-powered web application for automated skin disease classification using deep learning. Built with VGG19 architecture achieving 86.8% accuracy across 9 disease classes.
 
-![Demo Screenshot](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=AI+Skin+Disease+Classification+Dashboard)
+## 📸 Demo Screenshots
+
+### Main Dashboard
+![Main Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=AI+Skin+Disease+Classification+Dashboard)
+*Clean, professional interface with upload functionality and real-time status indicators*
+
+### Image Upload & Analysis
+![Upload Interface](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Drag+%26+Drop+Image+Upload)
+*Intuitive drag-and-drop interface for medical image upload with instant preview*
+
+### Prediction Results
+![Prediction Results](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=AI+Prediction+Results+%26+Confidence+Scores)
+*Detailed prediction results with confidence scores, probability distributions, and visual charts*
+
+### Model Performance Metrics
+![Model Metrics](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Training+Metrics+%26+Confusion+Matrix)
+*Comprehensive model performance analytics including training curves and confusion matrix*
 
 ## 🌟 Features
 
